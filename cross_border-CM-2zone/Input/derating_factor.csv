@@ -1,0 +1,11 @@
+agent;A;B
+Gen_A_Baseload;1;0.99
+Gen_A_MidMerit;1;0.99
+Gen_A_Peak;1;0.99
+Gen_A_WindOnshore;0;0
+Gen_A_PV;0;0
+Gen_B_Baseload;0.99;1
+Gen_B_MidMerit;0.99;1
+Gen_B_Peak;0.99;1
+Gen_B_WindOnshore;0;0
+Gen_B_PV;0;0
